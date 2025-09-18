@@ -115,6 +115,7 @@ Editors for your React-based project.
 - [Slate JS](https://github.com/ianstormtaylor/slate) - A completely customizable framework.
 - [suneditor-react](https://github.com/mkhstar/suneditor-react) - Pure React Component for SunEditor (Pure javascript based WYSIWYG html editor, with no dependencies).
 - [tinymce-react](https://github.com/tinymce/tinymce-react) - official React wrapper for TinyMCE.
+- [lilac](https://github.com/maifeeulasad/lilac) - A WYSIWYG editor with modern React support
 
 ## For Vue
 
