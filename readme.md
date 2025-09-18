@@ -55,6 +55,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [on CodeMerge](https://github.com/s00d/on-codemerge) - A modular, open source rich text editor.
 - [Flowbite WYSIWYG](https://flowbite.com/docs/plugins/wysiwyg/) - Open-source text editor based on Tailwind CSS and Tip Tap
 - [g-editor](https://github.com/front/g-editor) A minimalist version of [Wordpress Gutenberg's](https://github.com/Wordpress/gutenberg) editor. Ideal for checking your custom blocks.
+- [FlyonUI WYSIWYG Editor](https://flyonui.com/docs/third-party-plugins/editor) - Utilize the WYSIWYG text editor to create and modify content, adjusting paragraphs, headings, images, and styling options.
 
 ## jQuery Based
 
