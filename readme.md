@@ -155,6 +155,7 @@ Editors for your Ruby-based project.
 
 WYSIWYG-alike editors
 
+- [editate](https://github.com/inokawa/editate) - A type-safe, framework agnostic and small contenteditable state manager.
 - [EmojiOne Area](https://github.com/mervick/emojionearea) - WYSIWYG-like EmojiOne Converter / Picker Plugin for jQuery. `💤 Inactive`
 - [GrapesJS](https://github.com/GrapesJS/grapesjs) - An open-source, multi-purpose, Web Builder Framework.
 - [last-draft](https://github.com/vacenz/last-draft) - A Draft.js editor using draft-js-plugins. `💤 Inactive`
