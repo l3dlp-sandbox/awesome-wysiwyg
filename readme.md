@@ -67,6 +67,7 @@ jQuery required editors
 - [Dante Editor](https://github.com/michelson/Dante) - Just another Medium wysiwyg editor clone.
 - [Easyeditor](https://github.com/im4aLL/easyeditor) - Very lightweight and highly configurable rich text html editor. `💤 Inactive`
 - [jQuery-Notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor. `💤 Inactive`
+- [LOEditor](https://github.com/LacasuriOrtodoxe/LOEditor) - Clean, modern editor with simple API and no deprecated execCommand.
 - [popline](https://github.com/kenshin54/popline) - An HTML5 Rich-Text-Editor Toolbar.
 - [simditor](https://github.com/mycolorway/simditor) - An Easy and Fast WYSIWYG Editor. `💤 Inactive`
 - [Summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
