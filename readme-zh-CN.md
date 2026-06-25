@@ -58,6 +58,7 @@
 - [Dante Editor](https://github.com/michelson/Dante) - 只是另一个 Medium wysiwyg 编辑器的克隆。 ![github star](https://img.shields.io/github/stars/michelson/Dante.svg?style=social&label=Star)
 - [Easyeditor](https://github.com/im4aLL/easyeditor) - 非常轻量级和高度可配置的富文本 HTML 编辑器。 `💤 Inactive` ![github star](https://img.shields.io/github/stars/im4aLL/easyeditor.svg?style=social&label=Star)
 - [jQuery-Notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - 一个现代、简单、优雅的所见即所得的富文本编辑器。 `💤 Inactive` ![github star](https://img.shields.io/github/stars/raphaelcruzeiro/jquery-notebook.svg?style=social&label=Star)
+- [LOEditor](https://github.com/LacasuriOrtodoxe/LOEditor/) - 简洁的现代编辑器，API 简单，无已弃用的 execCommand。
 - [popline](https://github.com/kenshin54/popline) - 一个 HTML5 富文本编辑器的工具栏。 ![github star](https://img.shields.io/github/stars/kenshin54/popline.svg?style=social&label=Star)
 - [simditor](https://github.com/mycolorway/simditor) - 一个简单而快速的所见即所得编辑器。 `💤 Inactive` ![github star](https://img.shields.io/github/stars/mycolorway/simditor.svg?style=social&label=Star)
 - [Summernote](https://github.com/summernote/summernote) - 超级简单的 WYSIWYG 编辑器。 ![github star](https://img.shields.io/github/stars/summernote/summernote.svg?style=social&label=Star)
